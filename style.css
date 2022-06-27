@@ -2,8 +2,13 @@ body {
     background: #CCCCCC
 }
 
+#banner {
+
+}
+
 h1 {
-    text-align: center
+    text-align: center;
+    height: 150px;
 }
 
 p {
